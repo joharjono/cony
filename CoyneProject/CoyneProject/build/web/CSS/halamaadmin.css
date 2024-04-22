@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 6, 2021, 7:48:50 PM
+    Author     : ASUS
+*/
+
+*{
+    font-family: sans-serif;
+}
+.navbar{
+    text-decoration: none;
+    background-color: #00cc00;
+    color: white;
+}
+.cont{
+    background-color: #000000;
+    height:100%;
+    width: 300px;
+
+}
+
+.head, th{
+    background-color:	 #333333;
+    color: #d9d9d9;
+    font-size: 13px;
+}
+table{
+    border:  #000000 1px solid;
+    text-align: center;
+
+}
+td{
+    border: #bfbfbf 1px solid;
+    font-size: 13px;
+    text-align: center;
+}
+
+tr{
+    border:#bfbfbf 2px solid;
+    font-size: 13px; 
+    text-align: center;
+}
+.nav-link:hover{
+    font-size: 15px;
+    /*                background-color:  #cccccc;
+                    opacity: 0.5;*/
+}
+
+h4{
+    padding-left: 30rem;
+    padding-right: 30rem;
+    padding-bottom: 1rem;
+    /*    margin-left: 500px;*/
+    color: #66ff66;
+    font-family: Fantasy;
+    display: inline;
+    text-align: center;
+    border-bottom:#00cc00 3px solid;
+    border-radius: 20px;
+}
+#bungkus{
+    padding-bottom: 100%;
+}
+
+
+#tambahP{
+    display: inline-block;
+    border: none;
+
+}
+textarea, input{
+    width: 980px;
+    border: #ffffff 1px solid ;
+    border-radius: 5px;
+
+}
+#radio{
+    margin-left: -87rem;
+    margin-right: -464px;
+}
+div.tambahP{
+    /*    background-color: background;*/
+}
+#brs button{
+    background-color: red;
+    margin-left: 10rem;
+}
+.tambahP{
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    border: #e6e6e6 2px solid;
+
+}
+.bungkus2{
+    margin-left: 100px;
+}
+#logo{
+    width:110px;
+    height: 41px; 
+}
+#dasbor{
+    color: white;
+}
+#dasbor:hover{
+    opacity: 0.5;
+}
+.tombol{
+    margin-top: 10px;
+}
+.tombol #tobol{
+    width: 20px;
+    padding-left: -100px;
+}
+i #iedit{
+    background-color: #00cc00;
+
+}
+

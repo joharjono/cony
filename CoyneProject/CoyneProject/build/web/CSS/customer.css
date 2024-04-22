@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2021, 6:20:38 PM
+    Author     : ASUS
+*/
+
+body{
+    font-family: sans-serif;
+    background:#ffffff;
+    position:fixed;
+    text-align: center;
+    margin-left: 33rem;
+    margin-top: 9rem;
+}
+.bungkus{
+    background:#ffffff;
+    width: 30rem;
+    height: 30rem;
+    border-radius: 5px;  
+}
+#ilogo{
+    width: 200px;
+    height: 80px;
+    margin-bottom: 4.5rem;
+}
+#username, #password, #email{
+    text-decoration: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 5px;
+    width: 300px;
+    height: 30px;
+    background: transparent;
+    text-align: center;
+    border-bottom: #009933 1px solid;
+}
+
+#login, #registrasi{
+   color: #ffffff;
+   border:none; 
+   padding-top: 0.5rem;
+   padding-bottom: 0.5rem;
+   margin-top: 5rem;
+   display: inline-block;
+   padding-left: 150px;
+   padding-right: 150px;
+   border-radius: 5px;
+   background-color: #009933;      
+}
+.bungkus:hover{
+    border: #009933 1px solid;
+}
+#username:hover,#password:hover, #email:hover{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#login:hover,#registrasi:hover{
+    opacity: 0.5;
+}
+h3{
+    font-size: 15px;
+    
+}
+h3 a{
+    text-decoration: none;
+     font-size: 15px;
+}
+h3 a:hover{
+     font-size: 20px;
+}
